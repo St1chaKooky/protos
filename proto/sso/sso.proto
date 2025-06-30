@@ -2,7 +2,7 @@
 
     package auth;
 
-    option go_package = "stoian.sso.v1;soov1";
+    option go_package = "stoian.sso.v1;ssov1";
 
     service Auth {
       rpc Register (RegisterRequest) returns (RegisterResponse);
