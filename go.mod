@@ -1,3 +1,3 @@
-module module github.com/St1chaKooky/protos
+module github.com/St1chaKooky/protos
 
 go 1.23
